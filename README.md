@@ -1,6 +1,6 @@
 # jpg、png画像圧縮ツール  
 ※予め[node.js（推奨版）](https://nodejs.org/ja/)  と [ImageOptim](https://gist.github.com/t32k/6606334)  をインストールし、ImageOptimを開ける状態にしておく。  
-（インストール後一度ImageOptimを起動させておく）  
+（アプリケーションディレクトリへインストール後に一度ImageOptimを起動させておく）  
 　  
 ### 1.Github本ページ右上の「clone or download」からファイル一式を取得する。
 Source Treeでcloneするか、Download ZIPからファイル一式を取得し任意の作業フォルダに格納する。  
